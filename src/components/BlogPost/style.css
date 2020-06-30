@@ -1,0 +1,16 @@
+.blogHeader{
+    text-align: center;
+    padding: 10px;
+}
+
+.blogImage{
+    text-align: center;
+    box-sizing: content-box;
+    padding: 10px;
+}
+
+.blogBody{
+    text-align: left;
+    font-size: medium;
+    padding: 10px;
+}

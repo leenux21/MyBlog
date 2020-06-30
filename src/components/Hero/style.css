@@ -1,0 +1,20 @@
+.hero{
+    
+    
+    background-color: #cccccc;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.para{
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive; 
+    font-weight: 1000;
+    text-shadow: cornsilk;
+    color: black;
+    position: relative;
+}

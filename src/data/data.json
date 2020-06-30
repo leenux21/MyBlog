@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "id":1,
+            "blogCategory": "Food",
+            "blogTitle": "abcd",
+            "postedOn": "date",
+            "blogImage": "food.jpg",
+            "blogText": "food text"
+        },
+
+        {
+            "id": 2,
+            "blogCategory": "Travel",
+            "blogTitle": "ewfgh",
+            "postedOn": "date",
+            "blogImage": "travel.jpg",
+            "blogText": "travel text"
+        },
+
+        {
+            "id": 3,
+            "blogCategory": "Book",
+            "blogTitle": "abcd",
+            "postedOn": "date",
+            "blogImage": "book.jpg",
+            "blogText": "book text"
+        }
+
+    ]
+}
